@@ -4,7 +4,7 @@ export class Profile extends React.Component{
   constructor(props, context){
     super(props, context);
 
-    this.state = {name : "Turfa Auliarachman", nim : "13515133", major : "Informatics Engineering", university : "Bandung Institute of Technology", foto : "img/pasfoto.jpg", birthdate : "April 9, 1997", email : "turfa_auliarachman@rocketmail.com", projecteuler : "kingfalcon", alamat : "Jl. Cisitu Lama V 42B, Dago, Coblong, Bandung", facebook : "https://facebook.com/turfa.auliarachman", gplus : "https://plus.google.com/+TurfaAuliarachman", twitter : "https://twitter.com/TurfaGreenbat", github : "https://github.com/turfaa", codeforces : "http://codeforces.com/NangisDarah"};
+    this.state = {name : "Turfa Auliarachman", nim : "13515133", major : "Informatics Engineering", university : "Bandung Institute of Technology", foto : "img/pasfoto.jpg", birthdate : "April 9, 1997", email : "turfa_auliarachman@rocketmail.com", projecteuler : "kingfalcon", alamat : "Jl. Cisitu Lama V 42B, Dago, Coblong, Bandung", facebook : "https://facebook.com/turfa.auliarachman", gplus : "https://plus.google.com/+TurfaAuliarachman", twitter : "https://twitter.com/TurfaGreenbat", github : "https://github.com/turfaa", codeforces : "http://codeforces.com/profile/NangisDarah"};
   }
 
   render() {
