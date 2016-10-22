@@ -7,7 +7,6 @@ export class Profile extends React.Component{
   };
 
   render() {
-    console.log(this.props);
     return (
       <div style={{'marginBottom' : '10px'}}>
         <div className="row">
