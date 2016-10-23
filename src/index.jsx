@@ -34,7 +34,6 @@ class BigFrame extends React.Component {
     super(props, context);
   }
   render() {
-    console.log(userProfile);
     return (
       <div className="container">
         <div className="row" style={{'marginTop' : '40px'}}>
