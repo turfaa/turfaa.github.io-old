@@ -20,6 +20,7 @@ export class Profile extends React.Component{
             <p>
               <span className="glyphicon glyphicon-gift"></span>{this.props.profileData.birthdate}<br />
               <span className="glyphicon glyphicon-envelope"></span><a href={"mailto:"+this.props.profileData.email}>{this.props.profileData.email}</a><br />
+              <span className="glyphicon glyphicon-globe"></span><a href={this.props.profileData.web}>{this.props.profileData.web}</a><br />
               <span className="glyphicon glyphicon-home"  ></span>{this.props.profileData.alamat}<br />
             </p>
 
