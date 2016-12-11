@@ -19,7 +19,7 @@ const userProfile = {
     foto : "img/pasfoto.jpg",
     birthdate : "April 9, 1997",
     email : "turfa_auliarachman@rocketmail.com",
-    web : "https://turfaa.github.io/blog/",
+    web : "http://turfa.cf/",
     projecteuler : "kingfalcon",
     alamat : "Jl. Cisitu Lama V 42B, Dago, Coblong, Bandung",
     facebook : "https://facebook.com/turfa.auliarachman",
